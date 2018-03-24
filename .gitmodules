@@ -1,3 +1,6 @@
 [submodule "Nukkit"]
 	path = Nukkit
 	url = https://github.com/2pocket2edition/Nukkit.git
+[submodule "Actaeon"]
+	path = Actaeon
+	url = https://github.com/2pocket2edition/Actaeon.git
