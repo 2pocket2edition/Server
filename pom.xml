@@ -11,4 +11,17 @@
         <module>Nukkit</module>
         <module>Actaeon</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>cn.nukkit</groupId>
+            <artifactId>nukkit</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>me.onebone</groupId>
+            <artifactId>actaeon</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
 </project>
