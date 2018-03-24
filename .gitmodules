@@ -1,0 +1,3 @@
+[submodule "Nukkit"]
+	path = Nukkit
+	url = https://github.com/2pocket2edition/Nukkit.git
