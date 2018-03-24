@@ -33,17 +33,16 @@ hs_err_pid*
 .settings/*
 
 # Generated files
-/run/*
-banned-ips.json
-banned-players.json
-ops.txt
-server.log
-white-list.txt
-/worlds/*
-/players/*
-/logs/*
-creativeitems.json
-recipes.json
-/discordtoken.txt
+/run/banned-ips.json
+/run/banned-players.json
+/run/ops.txt
+/run/server.log
+/run/white-list.txt
+/run/worlds/*
+/run/players/*
+/run/logs/*
+/run/creativeitems.json
+/run/recipes.json
+/run/discordtoken.txt
 
-/plugins/PocketVote/config.yml
+/run/plugins/PocketVote/config.yml
