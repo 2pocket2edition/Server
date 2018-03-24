@@ -9,5 +9,6 @@
 
     <modules>
         <module>Nukkit</module>
+        <module>Actaeon</module>
     </modules>
 </project>
